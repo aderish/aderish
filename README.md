@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashton
+- 👋 Hi, I’m Ashton
 - 👀 I’m interested in engineering
 - 🌱 I’m currently learning healthcare devices and equipment
 - 💞️ I currently work at Walmart
